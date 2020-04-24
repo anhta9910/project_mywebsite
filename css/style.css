@@ -156,3 +156,27 @@ ul{
     text-align: center;
 }
 
+/*======================
+        10.FOOTER
+========================*/
+
+.footer {
+    padding: 70px 0px;
+    background-color: #242424 !important;
+}
+
+.footer .footer-alt p {
+    font-size: 16px;
+}
+
+.footer .footer-alt ul li a {
+    border-radius: 50%;
+    transition: all 0.5s;
+    background-color: rgba(241, 241, 241, 0.08);
+    width: 42px;
+    height: 42px;
+    display: block;
+    font-size: 18px;
+    line-height: 42px;
+    text-align: center;
+}
